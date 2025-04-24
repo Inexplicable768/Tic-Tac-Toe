@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-My first ever project in java, but i wanted to learn it so mind what is probably not amazing code
+My first ever project in java. Just a tic tac toe game. Usually the first thing I do when learning a new programming langauge
